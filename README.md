@@ -1,4 +1,4 @@
-# Course-L1-T2
+# Course- Lesson 2 -Task 2
 Korisnik unosi 3 integera - a, b i c. Preko switch-a napisati sledece:
 - Ukoliko je vrednost promenljive a 1 ili 3 ispisati tekst "Vrednost a je 1 ili 3".
 - Ukoliko je vrednost promenljive a 2, dodeliti vrednost koju ima promenljiva c promenljivoj b, nakon cega je potrebno da se vrednost promenljive c smanji za 1 (napisati u jednoj liniji koda sa operatorom za dekrementiranje)
